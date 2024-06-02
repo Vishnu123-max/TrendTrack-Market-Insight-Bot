@@ -18,7 +18,7 @@ This is a user-friendly news research tool designed for effortless information r
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/Vishnu123-max/TrendTrack-Market-Insight-Bot.git
 ```
 2.Navigate to the project directory:
 
